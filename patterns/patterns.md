@@ -13,6 +13,6 @@
 3. **Worker Pool** — пул воркеров для параллельной обработки
 4. **Semaphore** — ограничение количества параллельных операций
 
-Подробнее: [concurrency/README.md](./concurrency/README.md)
+Подробнее: [concurrency](concurrency/)
 
 
